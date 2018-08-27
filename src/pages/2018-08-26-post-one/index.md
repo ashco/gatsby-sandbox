@@ -1,8 +1,8 @@
 ---
 path: '/post-1'
-date: '2018-08-27'
+date: '2018-08-26'
 title: 'My First Gatsby Post'
-author: 'AshCo'
+author: 'Ash'
 ---
 
 ## My First Gatsby Post
