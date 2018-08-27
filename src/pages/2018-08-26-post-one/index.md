@@ -5,6 +5,4 @@ title: 'My First Gatsby Post'
 author: 'Ash'
 ---
 
-## My First Gatsby Post
-
 This is my very first post with Gatsby. I think it's pretty cool.
